@@ -1,0 +1,11 @@
+C:\Users\Ricardo\source\repos\Adapter Dessign Pattern Example\Adapter Dessign Pattern Example\bin\Debug\netcoreapp3.1\Adapter Dessign Pattern Example.exe
+C:\Users\Ricardo\source\repos\Adapter Dessign Pattern Example\Adapter Dessign Pattern Example\bin\Debug\netcoreapp3.1\Adapter Dessign Pattern Example.deps.json
+C:\Users\Ricardo\source\repos\Adapter Dessign Pattern Example\Adapter Dessign Pattern Example\bin\Debug\netcoreapp3.1\Adapter Dessign Pattern Example.runtimeconfig.json
+C:\Users\Ricardo\source\repos\Adapter Dessign Pattern Example\Adapter Dessign Pattern Example\bin\Debug\netcoreapp3.1\Adapter Dessign Pattern Example.runtimeconfig.dev.json
+C:\Users\Ricardo\source\repos\Adapter Dessign Pattern Example\Adapter Dessign Pattern Example\bin\Debug\netcoreapp3.1\Adapter Dessign Pattern Example.dll
+C:\Users\Ricardo\source\repos\Adapter Dessign Pattern Example\Adapter Dessign Pattern Example\bin\Debug\netcoreapp3.1\Adapter Dessign Pattern Example.pdb
+C:\Users\Ricardo\source\repos\Adapter Dessign Pattern Example\Adapter Dessign Pattern Example\obj\Debug\netcoreapp3.1\Adapter Dessign Pattern Example.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\Adapter Dessign Pattern Example\Adapter Dessign Pattern Example\obj\Debug\netcoreapp3.1\Adapter Dessign Pattern Example.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\Adapter Dessign Pattern Example\Adapter Dessign Pattern Example\obj\Debug\netcoreapp3.1\Adapter Dessign Pattern Example.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\Adapter Dessign Pattern Example\Adapter Dessign Pattern Example\obj\Debug\netcoreapp3.1\Adapter Dessign Pattern Example.dll
+C:\Users\Ricardo\source\repos\Adapter Dessign Pattern Example\Adapter Dessign Pattern Example\obj\Debug\netcoreapp3.1\Adapter Dessign Pattern Example.pdb
