@@ -1,0 +1,11 @@
+F:\ACKLEN\Capacitaciones\Badge\Design Patterns\Patrones-de-Dise-o-C-\Adapter Dessign Pattern Example\Strategy Dessign Pattern\bin\Debug\netcoreapp3.1\Strategy Dessign Pattern.exe
+F:\ACKLEN\Capacitaciones\Badge\Design Patterns\Patrones-de-Dise-o-C-\Adapter Dessign Pattern Example\Strategy Dessign Pattern\bin\Debug\netcoreapp3.1\Strategy Dessign Pattern.deps.json
+F:\ACKLEN\Capacitaciones\Badge\Design Patterns\Patrones-de-Dise-o-C-\Adapter Dessign Pattern Example\Strategy Dessign Pattern\bin\Debug\netcoreapp3.1\Strategy Dessign Pattern.runtimeconfig.json
+F:\ACKLEN\Capacitaciones\Badge\Design Patterns\Patrones-de-Dise-o-C-\Adapter Dessign Pattern Example\Strategy Dessign Pattern\bin\Debug\netcoreapp3.1\Strategy Dessign Pattern.runtimeconfig.dev.json
+F:\ACKLEN\Capacitaciones\Badge\Design Patterns\Patrones-de-Dise-o-C-\Adapter Dessign Pattern Example\Strategy Dessign Pattern\bin\Debug\netcoreapp3.1\Strategy Dessign Pattern.dll
+F:\ACKLEN\Capacitaciones\Badge\Design Patterns\Patrones-de-Dise-o-C-\Adapter Dessign Pattern Example\Strategy Dessign Pattern\bin\Debug\netcoreapp3.1\Strategy Dessign Pattern.pdb
+F:\ACKLEN\Capacitaciones\Badge\Design Patterns\Patrones-de-Dise-o-C-\Adapter Dessign Pattern Example\Strategy Dessign Pattern\obj\Debug\netcoreapp3.1\Strategy Dessign Pattern.csprojAssemblyReference.cache
+F:\ACKLEN\Capacitaciones\Badge\Design Patterns\Patrones-de-Dise-o-C-\Adapter Dessign Pattern Example\Strategy Dessign Pattern\obj\Debug\netcoreapp3.1\Strategy Dessign Pattern.AssemblyInfoInputs.cache
+F:\ACKLEN\Capacitaciones\Badge\Design Patterns\Patrones-de-Dise-o-C-\Adapter Dessign Pattern Example\Strategy Dessign Pattern\obj\Debug\netcoreapp3.1\Strategy Dessign Pattern.AssemblyInfo.cs
+F:\ACKLEN\Capacitaciones\Badge\Design Patterns\Patrones-de-Dise-o-C-\Adapter Dessign Pattern Example\Strategy Dessign Pattern\obj\Debug\netcoreapp3.1\Strategy Dessign Pattern.dll
+F:\ACKLEN\Capacitaciones\Badge\Design Patterns\Patrones-de-Dise-o-C-\Adapter Dessign Pattern Example\Strategy Dessign Pattern\obj\Debug\netcoreapp3.1\Strategy Dessign Pattern.pdb
